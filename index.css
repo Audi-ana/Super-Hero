@@ -1,0 +1,51 @@
+.headingStyling{
+    color: white;
+    text-align: center;
+}
+
+.control{
+    display: flex;
+}
+
+.bodyStyling{
+    background-image: linear-gradient(to bottom, #0e0f12, #191d1f, #242a2a, #323734, #42443f);
+}
+
+.movieListStyling{
+    list-style: none;
+    display: inline-table;
+    padding: 5%;
+    text-align: center;
+}
+
+.imageStyling{
+    height: 500px;
+    width: auto;
+}
+
+.styling{
+    border: none;
+    background: none;
+    
+}
+
+.sizing{
+    height: 20px;
+    width: auto;
+}
+
+
+.textStyling{
+    list-style: none;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    padding-right: 10%;
+    position: fixed;
+    bottom:0;
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
